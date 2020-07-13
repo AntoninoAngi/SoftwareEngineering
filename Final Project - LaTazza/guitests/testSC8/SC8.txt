@@ -1,0 +1,18 @@
+Click "{ImageFolder}/1558519947778.png" 39 22
+Click "{ImageFolder}/1558519991210.png" 14 26
+Click "{ImageFolder}/1558520014098.png" 52 51
+Click "{ImageFolder}/1558800013549.png" 37 64
+Click "{ImageFolder}/1558800031259.png" 8 85
+Click "{ImageFolder}/1558800049278.png" 15 69
+Type "25"
+Type ""
+Click "{ImageFolder}/1558800091315.png" 41 69
+Type "5"
+Type ""
+Click "{ImageFolder}/1558800114775.png" 77 67
+Type "2019"
+Type ""
+Click "{ImageFolder}/1558800133957.png" 27 90
+Check "{ImageFolder}/1558800178394.png"
+
+

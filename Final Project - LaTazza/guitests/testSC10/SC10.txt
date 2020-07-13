@@ -1,0 +1,28 @@
+Click "{ImageFolder}/1558519947778.png" 39 22
+Click "{ImageFolder}/1558519991210.png" 14 26
+Click "{ImageFolder}/1558520014098.png" 52 51
+Click "{ImageFolder}/1558800274391.png" 15 62
+Type "25"
+Type ""
+Click "{ImageFolder}/1558800299021.png" 44 67
+Type "5"
+Type ""
+Click "{ImageFolder}/1558800317802.png" 77 48
+Type "2019"
+Type ""
+
+Click "{ImageFolder}/1558800381831.png" 10 54
+Type "24"
+Type ""
+Click "{ImageFolder}/1558800410551.png" 47 58
+Type "5"
+Type ""
+Click "{ImageFolder}/1558800427732.png" 78 67
+Type "2019"
+Type ""
+
+Click "{ImageFolder}/1558800337942.png" 40 83
+
+Check "{ImageFolder}/1558800487127.png"
+
+
